@@ -1,1 +1,2 @@
 I am having fun.
+And now there are two lines.
